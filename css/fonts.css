@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Pacifico";
+  src: url("../fonts/Pacifico-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  src: url("../fonts/SourceCodePro-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  src: url("../fonts/SourceCodePro-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Code Pro";
+  src: url("../fonts/SourceCodePro-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
